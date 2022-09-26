@@ -1,0 +1,67 @@
+body {
+  font-family: Arial;
+  color: #fff;
+  background-image: url(../media/Dining-Room.jpg);
+}
+.karta {
+  display: inline-block;
+  width: 140px;
+  height: 40px;
+  background-color: blue;
+  border-radius: 10%;
+  text-align: center;
+  margin-top: 20px;
+}
+a:hover {
+  color: grey;
+}
+a:active {
+  color: rgb(0, 149, 255);
+}
+
+span {
+  width: 900px;
+  margin-bottom: 40px;
+  font-size: 20px;
+}
+.mainN {
+  width: 30%;
+  margin: 10% auto 0;
+  background-color: #0f0f0fa8;
+  padding: 45px;
+  border-radius: 15px;
+}
+.reg {
+  margin: 0 auto;
+}
+.reg p {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 0px;
+
+  font-weight: bold;
+}
+
+input {
+  border: 0;
+  height: 25px;
+  padding: 3px 5px;
+  float: right;
+}
+
+form {
+  width: 500px;
+  margin: 0 auto;
+}
+
+label {
+  margin-top: 1000px;
+}
+
+#submit {
+  width: 100%;
+  margin-top: 5px;
+  background-color: blueviolet;
+  cursor: pointer;
+  color: #fff;
+}
